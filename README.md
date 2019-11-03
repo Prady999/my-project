@@ -2,4 +2,4 @@
 new project creation
 Hi this a developer......!!!!!!
 
-Hello Freiend!!
+Hello Friend!!
